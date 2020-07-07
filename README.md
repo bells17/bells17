@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 Hello, I'm bells17.  
-Working as a Software Engineer at Tokyo.  
-I'm interested in Kubernetes/Cloud Native and Cloud Provider.
+I'm working as a Software Engineer at Tokyo, and I'm interested in Kubernetes/Cloud Native and Cloud Provider.
 
 #### 📫  Get in touch
 
