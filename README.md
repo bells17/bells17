@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning about **implementation of Kubernetes & Cloud Native Softwares**
 
-- ⚡ I'm a japanese translation project reviewer of the [Kubernetes website](https://kubernetes.io/)
+- ⚡ I'm a [japanese translation project reviewer](https://github.com/orgs/kubernetes/teams/sig-docs-ja-reviews/members) of the [Kubernetes website](https://kubernetes.io/)
 
 - 💬 Ask me about **implementation of Kubernetes, microservice and cloud infrastructure**
 
@@ -44,4 +44,5 @@
 - Qiita: https://qiita.com/bells17
 
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=bells17&show_icons=true" alt="bells17" />
+
+![bells17 github stats](https://github-readme-stats.vercel.app/api?username=bells17&show_icons=true&hide_border=true)
