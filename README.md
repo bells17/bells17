@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **implementation of Kubernetes, microservice and cloud infrastructure**
 
-- 📫 How to reach me **twitter: [@bells17_](https://twitter.com/bells17_)**
+- 👯 How to reach me **twitter: [@bells17_](https://twitter.com/bells17_)**
 
 <br>
 <p align="center">
