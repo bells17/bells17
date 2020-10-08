@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/bells17">@bells17</a></h1>
 <h3 align="center">I'm a software engineer and cloud infrastracture engineer.</h3>
-<h3 align="center">I love Kubernetes and Cloud Native technologies</h3>
+<h3 align="center">I love Kubernetes and Cloud Native technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bells17" alt="bells17" /> </p>
 
