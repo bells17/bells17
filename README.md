@@ -44,6 +44,4 @@
 - Qiita: https://qiita.com/bells17
 
 <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bells17&layout=compact&hide=html" alt="bells17" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=bells17&show_icons=true" alt="bells17" />
-
