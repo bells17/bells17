@@ -27,8 +27,6 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/elixir/elixir-original.svg" alt="elixir" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/perl/perl-original.svg" alt="perl" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
@@ -38,10 +36,8 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-original-wordmark.svg" alt="wordpress" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> 
 </p>
 <br>
 
