@@ -51,7 +51,9 @@
 - Speakerdeck: https://speakerdeck.com/bells17
 - Qiita: https://qiita.com/bells17
 - Videos:
-  - YouTube: https://www.youtube.com/playlist?list=PLVED3UoYQk7zdtFYAdGec5XmA7oXoabN5
+  - YouTube
+    - https://www.youtube.com/playlist?list=PLVED3UoYQk7zdtFYAdGec5XmA7oXoabN5
+    - https://www.youtube.com/channel/UCpkd51NdxThtTSR3L6T83fw
   - Others:
     - https://event.cloudnativedays.jp/cndt2020/talks/32
 
