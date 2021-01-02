@@ -56,6 +56,11 @@
     - https://www.youtube.com/channel/UCpkd51NdxThtTSR3L6T83fw
   - Others:
     - https://event.cloudnativedays.jp/cndt2020/talks/32
+- Books:
+  - Booth: https://bells17.booth.pm/
+  - techbookfest(技術書典): https://techbookfest.org/organization/5681382170820608
+
+
 
 <br>
 
