@@ -59,7 +59,9 @@
 - Books:
   - Booth: https://bells17.booth.pm/
   - techbookfest(技術書典): https://techbookfest.org/organization/5681382170820608
-
+- Hashtag:
+  - [#k8sinternal](https://twitter.com/search?q=%23k8sinternal)
+  - [#kubenews](https://twitter.com/search?q=%23kubenews)
 
 
 <br>
