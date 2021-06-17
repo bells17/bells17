@@ -51,6 +51,7 @@
 - Twitter: https://twitter.com/bells17_
 - Medium: https://medium.com/@bells17
 - Speakerdeck: https://speakerdeck.com/bells17
+- Zenn: https://zenn.dev/bells17
 - Qiita: https://qiita.com/bells17
 - Videos:
   - YouTube
