@@ -10,6 +10,8 @@
 
 - ⚡ I'm a [japanese translation project reviewer](https://github.com/orgs/kubernetes/teams/sig-docs-ja-reviews/members) of the [Kubernetes website](https://kubernetes.io/)
 
+- 🍺 I'm an organizer of [kubenews](https://kubenews.connpass.com/) and [kubernetes internal](https://k8sinternal.connpass.com/)
+
 - 💬 Ask me about **implementation of Kubernetes, microservice and cloud infrastructure**
 
 - 👯 How to reach me **twitter: [@bells17_](https://twitter.com/bells17_)**
