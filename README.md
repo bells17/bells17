@@ -6,6 +6,8 @@
 
 - 🔭 I’m currently working on [@idcf](https://github.com/idcf) as a **software enginner**
 
+- 🚀 I’m a **[TopoLVM](https://github.com/topolvm/topolvm) [contributor](https://github.com/topolvm/topolvm/graphs/contributors)**.
+
 - 🌱 I’m currently learning about **implementation of Kubernetes & Cloud Native Softwares**
 
 - ⚡ I'm a [japanese translation project reviewer](https://github.com/orgs/kubernetes/teams/sig-docs-ja-reviews/members) of the [Kubernetes website](https://kubernetes.io/)
@@ -50,8 +52,8 @@
 
 - Twitter: https://twitter.com/bells17_
 - Medium: https://medium.com/@bells17
-- Speakerdeck: https://speakerdeck.com/bells17
 - Zenn: https://zenn.dev/bells17
+- Speakerdeck: https://speakerdeck.com/bells17
 - Qiita: https://qiita.com/bells17
 - Videos:
   - YouTube
