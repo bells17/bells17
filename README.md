@@ -2,7 +2,14 @@
 <h3 align="center">I'm a software engineer and cloud infrastracture engineer.</h3>
 <h3 align="center">I love Kubernetes and Cloud Native technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bells17" alt="bells17" /> </p>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=bells17" alt="pv" />
+<a href="https://github.com/bells17?tab=followers"><img src="https://img.shields.io/github/followers/bells17?label=Follow%20%40bells17&style=social" alt="github" /></a>
+<a href="https://github.com/bells17"><img src="https://img.shields.io/github/stars/bells17?affiliations=OWNER&style=social" alt="github" /></a>
+<a href="https://twitter.com/bells17_"><img src="https://img.shields.io/twitter/follow/bells17_?style=social" alt="twitter" /></a>
+</div>
+
+
 
 - 🔭 I’m currently working on [@idcf](https://github.com/idcf) as a **software enginner**
 
