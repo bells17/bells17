@@ -58,7 +58,7 @@
 <h3 align="center">📫 Get in touch</h3>
 
 - Resume(Public): https://bells17.io/
-- Twitter: https://twitter.com/bells17_
+- Twitter: [https://twitter.com/bells17_](https://twitter.com/bells17_)
 - Medium: https://medium.com/@bells17
 - Zenn: https://zenn.dev/bells17
 - Speakerdeck: https://speakerdeck.com/bells17
