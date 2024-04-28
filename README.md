@@ -58,6 +58,7 @@
 <h3 align="center">📫 Get in touch</h3>
 
 - Resume(Public): https://bells17.io/
+- Linux Foudation: https://openprofile.dev/profile/bells17
 - Twitter: [https://twitter.com/bells17_](https://twitter.com/bells17_)
 - Medium: https://medium.com/@bells17
 - Zenn: https://zenn.dev/bells17
