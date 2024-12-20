@@ -11,7 +11,7 @@
 
 
 
-- 🔭 I’m currently working on [@idcf](https://github.com/idcf) as a **software enginner**
+- 🔭 I’m currently working on [@3-shake](https://github.com/3-shake) as a **software enginner**
 
 - 🚀 I’m a **[TopoLVM](https://github.com/topolvm/topolvm) [maintainer](https://github.com/topolvm/topolvm/graphs/contributors)**.
 
